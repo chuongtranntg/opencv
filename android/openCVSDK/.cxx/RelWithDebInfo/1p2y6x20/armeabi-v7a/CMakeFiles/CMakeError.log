@@ -1,0 +1,14 @@
+Detecting C [-std=c99] compiler features failed to compile with the following output:
+Change Dir: /Users/chuong.trandinh/Projects/ReactNative/Research/OpenCV/react-native-opencv-tutorial/android/openCVSDK/.cxx/RelWithDebInfo/1p2y6x20/armeabi-v7a/CMakeFiles/CMakeTmp
+
+Run Build Command:"/Users/chuong.trandinh/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja" "cmTC_f79ef"
+[1/2] Building C object CMakeFiles/cmTC_f79ef.dir/feature_tests.c.o
+[2/2] Linking C executable cmTC_f79ef
+FAILED: cmTC_f79ef 
+: && /Users/chuong.trandinh/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/chuong.trandinh/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chuong.trandinh/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -Wl,--build-id -Wl,--fatal-warnings -Wl,--exclude-libs,libunwind.a -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections CMakeFiles/cmTC_f79ef.dir/feature_tests.c.o  -o cmTC_f79ef  -latomic -lm && :
+clang: error: unable to execute command: Bus error: 10
+clang: error: linker command failed due to signal (use -v to see invocation)
+ninja: build stopped: subcommand failed.
+
+
+

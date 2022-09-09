@@ -1,0 +1,7 @@
+Executable : /Users/chuong.trandinh/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/chuong.trandinh/Projects/ReactNative/Research/OpenCV/react-native-opencv-tutorial/android/openCVSDK/.cxx/Debug/7058362a/x86_64
+opencv_jni_shared
+jvmArgs : 
+

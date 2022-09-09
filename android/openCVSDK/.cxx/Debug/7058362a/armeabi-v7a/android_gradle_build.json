@@ -1,0 +1,39 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/chuong.trandinh/Projects/ReactNative/Research/OpenCV/react-native-opencv-tutorial/android/openCVSDK/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/chuong.trandinh/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/chuong.trandinh/Projects/ReactNative/Research/OpenCV/react-native-opencv-tutorial/android/openCVSDK/.cxx/Debug/7058362a/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/chuong.trandinh/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/chuong.trandinh/Projects/ReactNative/Research/OpenCV/react-native-opencv-tutorial/android/openCVSDK/.cxx/Debug/7058362a/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared-Debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/Users/chuong.trandinh/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/chuong.trandinh/Projects/ReactNative/Research/OpenCV/react-native-opencv-tutorial/android/openCVSDK/.cxx/Debug/7058362a/armeabi-v7a",
+        "opencv_jni_shared"
+      ],
+      "buildType": "debug",
+      "abi": "armeabi-v7a",
+      "artifactName": "opencv_jni_shared",
+      "output": "/Users/chuong.trandinh/Projects/ReactNative/Research/OpenCV/react-native-opencv-tutorial/android/openCVSDK/.cxx/Debug/7058362a/armeabi-v7a/libopencv_jni_shared.a"
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

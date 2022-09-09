@@ -1,0 +1,3 @@
+/Users/chuong.trandinh/Projects/ReactNative/Research/OpenCV/react-native-opencv-tutorial/android/openCVSDK/.cxx/RelWithDebInfo/1p2y6x20/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/chuong.trandinh/Projects/ReactNative/Research/OpenCV/react-native-opencv-tutorial/android/openCVSDK/.cxx/RelWithDebInfo/1p2y6x20/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/chuong.trandinh/Projects/ReactNative/Research/OpenCV/react-native-opencv-tutorial/android/openCVSDK/.cxx/RelWithDebInfo/1p2y6x20/arm64-v8a/CMakeFiles/opencv_jni_shared.dir

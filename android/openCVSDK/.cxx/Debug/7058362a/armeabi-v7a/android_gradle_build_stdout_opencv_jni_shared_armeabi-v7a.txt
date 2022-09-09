@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/chuong.trandinh/Projects/ReactNative/Research/OpenCV/react-native-opencv-tutorial/android/openCVSDK/.cxx/Debug/7058362a/armeabi-v7a'
+ninja: no work to do.
